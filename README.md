@@ -30,7 +30,10 @@ https://en.mapy.cz/turisticka?planovani-trasy&rc=93yT5xIqutkg9bCy5j0hfc&rs=coor&
 [4:42h, 7km, 1236m]
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9ZPZ1xK0oNgbNcNneV1dsZ&rs=coor&rs=coor&rs=osm&ri=&ri=&ri=20361701&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&x=10.6557720&y=47.2657082&z=14
 
+# Italy
 
+[2:53h, 5.7km, 909m]
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9boaTxHPYD5q0cix&rs=osm&rs=coor&ri=30923&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9boeNxHOy0hE-gbsNTEMTXexyIMfXWgQTfiLgahf3SZ9fSEfhefKzgkWfhT&x=12.2166715&y=46.6308779&z=14
 
 
 
