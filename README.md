@@ -52,7 +52,7 @@
 - **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=91bfnx4SJj91UNlbGu&rs=osm&rs=coor&ri=1096976525&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B91bJex4R3w3Bo4C3JM35afhleFLerxe12&x=11.3998148&y=46.8110622&z=14)**
 - *[Google](https://www.google.com/maps/@46.8198333,11.4344498,3a,75y,298.33h,77.77t/data=!3m8!1e1!3m6!1sAF1QipMH4mftkfKejWzKLHesvr31YlfjB94fEb7Ssr7Y!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMH4mftkfKejWzKLHesvr31YlfjB94fEb7Ssr7Y%3Dw203-h100-k-no-pi-10-ya160-ro-0-fo100!7i8192!8i4096!5m1!1e4?entry=ttu)*
 
-### 2:03h, 3.8km, 626 - 7:35
+### 2:03h, 3.8km, 626m - 7:35
 
 - **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9bsgWxGzbki-0g8n&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9bszuxGzXZgcIfbWgc8Lw8Weoy83fOMgTJElhLnhc0&x=12.2690604&y=46.5761543&z=15)**
 - *[Google](https://www.google.com/maps/@46.5789188,12.2731219,3a,75y,52.59h,54.8t/data=!3m8!1e1!3m6!1sAF1QipMWB3dAG-fFrTGPkFmj0JnjS5x1uPm5TtN53FeX!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMWB3dAG-fFrTGPkFmj0JnjS5x1uPm5TtN53FeX%3Dw203-h100-k-no-pi0-ya320-ro0-fo100!7i8192!8i4096!5m1!1e4?entry=ttu)*
