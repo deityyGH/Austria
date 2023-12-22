@@ -1,3 +1,5 @@
+*hike time, hike distance, hike elevation, car travel time*
+
 # Austria
 
 ### 1:27h, 3.4km, 395m - 5:08h
