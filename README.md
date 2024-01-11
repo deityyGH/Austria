@@ -2,6 +2,10 @@
 
 # Austria
 
+### 1:31h, 2.8km, 732m - 6:19h
+- **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9ccAcxJCSYd-0cjU&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9cbeKxJCZWIwfQr&x=12.4742065&y=47.1130588&z=14)**
+- *[Google](https://www.google.com/maps/@47.107176,12.4768846,3a,75y,343.08h,100.67t/data=!3m8!1e1!3m6!1sAF1QipPcFLwQFIMJ7HAFyxb7gKI0TBB-3d2O44BRzMwP!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPcFLwQFIMJ7HAFyxb7gKI0TBB-3d2O44BRzMwP%3Dw203-h100-k-no-pi0-ya189.29723-ro0-fo100!7i8192!8i4096!5m1!1e4?entry=ttu)*
+
 ### 1:27h, 3.4km, 395m - 5:08h
 - **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9enIdxK2AyjD5bZ9&rs=osm&rs=coor&ri=11027743&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9enLnxKDD2gvwf2Xg-ke3Og1ke1ag6DfPGXPfNo&x=13.6281297&y=47.2894657&z=14)**
 - *[Google](https://www.google.com/maps/@47.2845283,13.6474345,3a,75y,149.4h,98.94t/data=!3m8!1e1!3m6!1sAF1QipPS7vWodxp1j0b0dNFEjErDJedQp_p__E8Liunk!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPS7vWodxp1j0b0dNFEjErDJedQp_p__E8Liunk%3Dw203-h100-k-no-pi-0-ya35.294865-ro-0-fo100!7i8704!8i4352!5m1!1e4?entry=ttu)*
