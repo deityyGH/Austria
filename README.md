@@ -1,4 +1,6 @@
-https://www.airbnb.cz/s/Innsbruck--Austria/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-06-01&monthly_length=3&monthly_end_date=2024-09-01&price_filter_input_type=0&channel=EXPLORE&query=Innsbruck%2C%20Austria&place_id=ChIJc8r44c9unUcRDZsdKH0cIJ0&date_picker_type=calendar&checkin=2024-07-06&checkout=2024-07-10&source=structured_search_input_header&search_type=user_map_move&search_mode=regular_search&price_filter_num_nights=4&ne_lat=47.05066619164074&ne_lng=11.58176514851175&sw_lat=46.841776324468725&sw_lng=11.319069127621447&zoom=11.694182442587689&zoom_level=11.694182442587689&search_by_map=true
+Haus Gamsblick
+
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9-WCoxJgtIeRpxJnun&rs=coor&rs=osm&ri=&ri=20365000&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-X48xJ58Qf4i5WAfCwhgNfbchja&x=11.0385085&y=47.2318147&z=14
 
 *hike time, hike distance, hike elevation, car travel time*
 
