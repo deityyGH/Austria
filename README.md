@@ -2,9 +2,14 @@ Haus Gamsblick
 
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9-WCoxJgtIeRpxJnun&rs=coor&rs=osm&ri=&ri=20365000&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-X48xJ58Qf4i5WAfCwhgNfbchja&x=11.0385085&y=47.2318147&z=14
 
+
+
 ### 2:31h, 5.4km, 761m - x
-- **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9ccAcxJCSYd-0cjU&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9cbeKxJCZWIwfQr&x=12.4742065&y=47.1130588&z=14](https://en.mapy.cz/turisticka?planovani-trasy&rc=9-5G.x4ol4kw1x4yvD&rs=osm&rs=coor&ri=120787869&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-5RTx4pgyWThJAgpU5J1WKgQ8gapgmjhlb526hNp5DIgSHghu&x=11.1424340&y=46.9182673&z=14)**
-- *[Google]([https://www.google.com/maps/@47.107176,12.4768846,3a,75y,343.08h,100.67t/data=!3m8!1e1!3m6!1sAF1QipPcFLwQFIMJ7HAFyxb7gKI0TBB-3d2O44BRzMwP!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPcFLwQFIMJ7HAFyxb7gKI0TBB-3d2O44BRzMwP%3Dw203-h100-k-no-pi0-ya189.29723-ro0-fo100!7i8192!8i4096!5m1!1e4?entry=ttu](https://www.google.com/maps/@46.9268979,11.1649668,3a,90y,213.7h,80.55t/data=!3m8!1e1!3m6!1sAF1QipPrpeWyKDPo_bhXkkI33PtoYmWRnxyZaJYFfL5w!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPrpeWyKDPo_bhXkkI33PtoYmWRnxyZaJYFfL5w%3Dw203-h100-k-no-pi-0-ya294.30106-ro0-fo100!7i11264!8i5632!5m1!1e4?entry=ttu)*
+- **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9-5G.x4ol4kw1x4yvD&rs=osm&rs=coor&ri=120787869&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-5RTx4pgyWThJAgpU5J1WKgQ8gapgmjhlb526hNp5DIgSHghu&x=11.1424340&y=46.9182673&z=14
+)**
+- *[Google](https://www.google.com/maps/@46.9268979,11.1649668,3a,90y,213.7h,80.55t/data=!3m8!1e1!3m6!1sAF1QipPrpeWyKDPo_bhXkkI33PtoYmWRnxyZaJYFfL5w!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPrpeWyKDPo_bhXkkI33PtoYmWRnxyZaJYFfL5w%3Dw203-h100-k-no-pi-0-ya294.30106-ro0-fo100!7i11264!8i5632!5m1!1e4?entry=ttu)*
+
+
 
 ### 2:41h, 7.4km, 709m - x
 - **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9-nQaxIYN85R1xIQqw&rs=osm&rs=coor&ri=20369453&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-78HxIYgXhIxXkhITe3ahWTfKjfSwebWfhBee3f3ZeyVfOQHwVZeQO&x=11.1697067&y=46.9994905&z=14)**
