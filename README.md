@@ -3,11 +3,16 @@ Haus Gamsblick
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9-WCoxJgtIeRpxJnun&rs=coor&rs=osm&ri=&ri=20365000&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-X48xJ58Qf4i5WAfCwhgNfbchja&x=11.0385085&y=47.2318147&z=14
 
 Vilsalpsee - chillec 
+### 3:36h, 7.2km, 937m - x
+- ne moc chillec
+- **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9ZBqWxL4TL1zxxKxp3&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9ZB3qxLGL6fWx3mLextd5DDzfPofXTf5SfJwfcgfDkeiA3i2ePY&x=10.5369595&y=47.4804865&z=14)**
+- *[Google](https://www.google.com/maps/@47.4521648,10.5238173,3a,75y,255.09h,79.29t/data=!3m8!1e1!3m6!1sAF1QipNf3eiIbyQ7sM4KASBH3CKXo2-yAD7vIPGQwcFA!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNf3eiIbyQ7sM4KASBH3CKXo2-yAD7vIPGQwcFA%3Dw203-h100-k-no-pi-0-ya8.553036-ro-0-fo100!7i8704!8i4352!5m1!1e4?coh=205409&entry=ttu)*
 
-### 2:31h, 5.4km, 761m - x
-- **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9-5G.x4ol4kw1x4yvD&rs=osm&rs=coor&ri=120787869&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-5RTx4pgyWThJAgpU5J1WKgQ8gapgmjhlb526hNp5DIgSHghu&x=11.1424340&y=46.9182673&z=14
-)**
-- *[Google](https://www.google.com/maps/@46.9268979,11.1649668,3a,90y,213.7h,80.55t/data=!3m8!1e1!3m6!1sAF1QipPrpeWyKDPo_bhXkkI33PtoYmWRnxyZaJYFfL5w!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPrpeWyKDPo_bhXkkI33PtoYmWRnxyZaJYFfL5w%3Dw203-h100-k-no-pi-0-ya294.30106-ro0-fo100!7i11264!8i5632!5m1!1e4?entry=ttu)*
+
+
+
+
+
 
 
 
