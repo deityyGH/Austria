@@ -2,7 +2,7 @@ Haus Gamsblick
 
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9-WCoxJgtIeRpxJnun&rs=coor&rs=osm&ri=&ri=20365000&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-X48xJ58Qf4i5WAfCwhgNfbchja&x=11.0385085&y=47.2318147&z=14
 
-
+Vilsalpsee - chillec 
 
 ### 2:31h, 5.4km, 761m - x
 - **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9-5G.x4ol4kw1x4yvD&rs=osm&rs=coor&ri=120787869&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-5RTx4pgyWThJAgpU5J1WKgQ8gapgmjhlb526hNp5DIgSHghu&x=11.1424340&y=46.9182673&z=14
