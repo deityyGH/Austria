@@ -35,6 +35,12 @@ Vilsalpsee - chillec
 
 
 
+### 1:57h, 4.4km, 891m - x
+- daleko 
+- **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9dqTZxHFR03xN5qp&rs=osm&rs=coor&ri=1007892675&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9dpKtxHFYAfJSg85ELgOwfiDgPcet3gfSO9gaxgfdgSWgbRffD&rut=1&x=12.9299183&y=46.6008365&z=15)**
+- *[Google](https://www.google.com/maps/@46.609946,12.9325361,3a,48.9y,340.58h,86.07t/data=!3m8!1e1!3m6!1sAF1QipP4CeCS-15UjmZMMcxXDFuZZ4KpP9ZPHu55ahmX!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP4CeCS-15UjmZMMcxXDFuZZ4KpP9ZPHu55ahmX%3Dw203-h100-k-no-pi-10-ya168-ro0-fo100!7i8704!8i4352!5m1!1e4?entry=ttu)*
+
+
 
 *hike time, hike distance, hike elevation, car travel time*
 
