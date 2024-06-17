@@ -9,8 +9,9 @@ Vilsalpsee - chillec
 - *[Google](https://www.google.com/maps/@47.4521648,10.5238173,3a,75y,255.09h,79.29t/data=!3m8!1e1!3m6!1sAF1QipNf3eiIbyQ7sM4KASBH3CKXo2-yAD7vIPGQwcFA!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNf3eiIbyQ7sM4KASBH3CKXo2-yAD7vIPGQwcFA%3Dw203-h100-k-no-pi-0-ya8.553036-ro-0-fo100!7i8704!8i4352!5m1!1e4?coh=205409&entry=ttu)*
 
 
+neco novyho
 
-
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9aS8vxJUrA9aKivd89&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9aSCExJUIwerL6OeGuDnfTkgN3euV4Mf8z8CfJEfiP&x=11.6939934&y=47.1837564&z=14
 
 
 
