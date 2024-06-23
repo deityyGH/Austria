@@ -1,4 +1,4 @@
-Haus Gamsblick
+Musi Appartments
 
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9-WCoxJgtIeRpxJnun&rs=coor&rs=osm&ri=&ri=20365000&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-X48xJ58Qf4i5WAfCwhgNfbchja&x=11.0385085&y=47.2318147&z=14
 
@@ -12,6 +12,11 @@ Vilsalpsee - chillec
 neco novyho
 
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9aS8vxJUrA9aKivd89&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9aSCExJUIwerL6OeGuDnfTkgN3euV4Mf8z8CfJEfiP&x=11.6939934&y=47.1837564&z=14
+
+
+### 2:59h, 4.8km, 732m - x
+- **[Mapy]([https://en.mapy.cz/turisticka?planovani-trasy&rc=9-nQaxIYN85R1xIQqw&rs=osm&rs=coor&ri=20369453&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-78HxIYgXhIxXkhITe3ahWTfKjfSwebWfhBee3f3ZeyVfOQHwVZeQO&x=11.1697067&y=46.9994905&z=14](https://en.mapy.cz/turisticka?planovani-trasy&rc=9-lczxIWtOcZ05F0&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-lXIxIW7CFKgXZfPjgQV3cKf0seBCg3Z&x=11.1365721&y=47.0126844&z=15))**
+- *[Google](https://www.google.com/maps/@47.0154389,11.1296205,3a,76.1y,57.48h,81.09t/data=!3m8!1e1!3m6!1sAF1QipOORxxFdEBq-D4PDqCVsyPRcfGIlajNPiEVoQY!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOORxxFdEBq-D4PDqCVsyPRcfGIlajNPiEVoQY%3Dw203-h100-k-no-pi-10-ya341-ro-0-fo100!7i8704!8i4352!5m1!1e4?coh=205409&entry=ttu)*
 
 
 
