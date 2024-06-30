@@ -8,6 +8,8 @@ Vilsalpsee - chillec
 - **[Mapy](https://en.mapy.cz/turisticka?planovani-trasy&rc=9ZBqWxL4TL1zxxKxp3&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9ZB3qxLGL6fWx3mLextd5DDzfPofXTf5SfJwfcgfDkeiA3i2ePY&x=10.5369595&y=47.4804865&z=14)**
 - *[Google](https://www.google.com/maps/@47.4521648,10.5238173,3a,75y,255.09h,79.29t/data=!3m8!1e1!3m6!1sAF1QipNf3eiIbyQ7sM4KASBH3CKXo2-yAD7vIPGQwcFA!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNf3eiIbyQ7sM4KASBH3CKXo2-yAD7vIPGQwcFA%3Dw203-h100-k-no-pi-0-ya8.553036-ro-0-fo100!7i8704!8i4352!5m1!1e4?coh=205409&entry=ttu)*
 
+easy
+https://en.mapy.cz/turisticka?planovani-trasy&rc=91-BfxIZM83KNk1E&rs=osm&rs=osm&ri=25595&ri=20369063&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B91ZyFxI-AgNxhGwf3Wghyf4ohxO&x=11.4220999&y=47.0589429&z=13
 
 neco novyho
 
