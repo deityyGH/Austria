@@ -1,3 +1,23 @@
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9hDI5xK9n31k1jbG&rs=osm&rs=coor&ri=1023686505&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9hClaxK967fWKhQefTUhCyfTzgS8eb-hUyeOpflm&rut=1&x=14.4002574&y=47.4595360&z=14
+https://www.google.com/maps/@47.4520666,14.4006158,3a,75y,357.51h,97.07t/data=!3m8!1e1!3m6!1sAF1QipNcgvZjPgLX6tN7i2XtrPxQnRQlY3H4LtYgcepj!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNcgvZjPgLX6tN7i2XtrPxQnRQlY3H4LtYgcepj%3Dw203-h100-k-no-pi-10-ya0-ro-0-fo100!7i6080!8i3040!5m1!1e4?coh=205409&entry=ttu
+
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9gBgaxJyf8dbG8q&rs=osm&rs=coor&ri=1095263641&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9gB5YxJzHZDnOKflZBaCfUlfJBRRfG3XLf1Sfgh&rut=1&x=14.0658168&y=47.2771214&z=13
+https://www.google.com/maps/@47.2790587,14.0614124,3a,90y,91.5h,85.89t/data=!3m8!1e1!3m6!1sAF1QipNLsFhcex4gK86UNzpkr-ZkpWmg0IBA82H3CQH5!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNLsFhcex4gK86UNzpkr-ZkpWmg0IBA82H3CQH5%3Dw203-h100-k-no-pi-0-ya192.61705-ro0-fo100!7i12000!8i6000!5m1!1e4?coh=205409&entry=ttu
+
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9gCHAxJwLcienbL3&rs=osm&rs=coor&ri=1095263641&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9gCguxJwmQg68fSqgxze3mhsi3EK&rut=1&x=14.0916626&y=47.2654264&z=14
+https://www.google.com/maps/@47.255182,14.1001872,3a,75y,11.55h,80.07t/data=!3m8!1e1!3m6!1sAF1QipNlLB-r7Gu_26QDMvQ5DX2D5Ks37ZBJkiMHWDmJ!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNlLB-r7Gu_26QDMvQ5DX2D5Ks37ZBJkiMHWDmJ%3Dw203-h100-k-no-pi-0-ya170.59436-ro0-fo100!7i4608!8i2304!5m1!1e4?coh=205409&entry=ttu
+
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9gMVAxJwx7V8xK2YD&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9gLuhxJzEHfi8i0ffUGh8BguHgqI&rut=1&x=14.1528277&y=47.2963818&z=14
+https://www.google.com/maps/@47.2960507,14.1483324,3a,75y,267.2h,79.66t/data=!3m8!1e1!3m6!1sAF1QipNlWakqS7EDsbQkvbfiBjlAK0KEcvYTap_8imc9!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNlWakqS7EDsbQkvbfiBjlAK0KEcvYTap_8imc9%3Dw203-h100-k-no-pi-20-ya78.00001-ro-0-fo100!7i12000!8i6000!5m1!1e4?coh=205409&entry=ttu
+
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9gU0UxK5xnbA0xKbsJ&rs=osm&rs=coor&ri=28774833&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9g8guxKhzVf21e.qfaXfX8e9TfGm3Xxdub&rut=1&x=14.1777186&y=47.3931560&z=14
+https://www.google.com/maps/@47.3807182,14.1674919,3a,75y,136.83h,85.29t/data=!3m8!1e1!3m6!1sAF1QipOWC0tRijkSWDFeQjoVXPP25TNPtgXp8z6fhR1O!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOWC0tRijkSWDFeQjoVXPP25TNPtgXp8z6fhR1O%3Dw203-h100-k-no-pi-0-ya68.30055-ro-0-fo100!7i6720!8i3360!5m1!1e4?coh=205409&entry=ttu
+
+
+https://www.booking.com/hotel/at/gaste-und-seminarhaus-solkstub-39-n.html?aid=808251&sid=c87901805a9bdd5a24c04815180bca0b;checkin=2024-08-04;checkout=2024-08-05;room1=A,A;homd=1;srpvid=6f3240a5be000075;srepoch=1721726634;atlas_src=hp_iw_btn
+
+
+______________________________________________________________________________________
 Musi Appartments
 
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9-WCoxJgtIeRpxJnun&rs=coor&rs=osm&ri=&ri=20365000&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9-X48xJ58Qf4i5WAfCwhgNfbchja&x=11.0385085&y=47.2318147&z=14
