@@ -1,3 +1,6 @@
+best a nejvic easy:
+https://en.mapy.cz/turisticka?planovani-trasy&rc=9enNMxK2JH530aAj&rs=osm&rs=coor&ri=28781240&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9enDhxKDbUgTffZHgk6fHSgaje18gP0fR-W9fM3g6DfPGXPfNo&x=13.6569829&y=47.2844674&z=13
+
 https://en.mapy.cz/turisticka?planovani-trasy&rc=9hDI5xK9n31k1jbG&rs=osm&rs=coor&ri=1023686505&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3B9hClaxK967fWKhQefTUhCyfTzgS8eb-hUyeOpflm&rut=1&x=14.4002574&y=47.4595360&z=14
 https://www.google.com/maps/@47.4520666,14.4006158,3a,75y,357.51h,97.07t/data=!3m8!1e1!3m6!1sAF1QipNcgvZjPgLX6tN7i2XtrPxQnRQlY3H4LtYgcepj!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNcgvZjPgLX6tN7i2XtrPxQnRQlY3H4LtYgcepj%3Dw203-h100-k-no-pi-10-ya0-ro-0-fo100!7i6080!8i3040!5m1!1e4?coh=205409&entry=ttu
 
